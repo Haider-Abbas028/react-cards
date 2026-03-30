@@ -23,6 +23,7 @@ padding: 10px 15px;
 display: flex;
 flex-direction: column;
 justify-content: space-between;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 .top img{
 height: 60px;
