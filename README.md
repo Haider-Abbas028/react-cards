@@ -67,5 +67,3 @@ const jobListings = [
 
 Haider Abbas - [GitHub](https://github.com/Haider-Abbas028)
 ```
-
-Simple, clean, and covers all the essentials! Just copy and paste this into your README.md file.
